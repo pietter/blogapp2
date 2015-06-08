@@ -36,5 +36,4 @@ https://www.railstutorial.org/book
 * Email: admin@example.pl
 * Password: admin123
 
-link do apki:
-https://fathomless-beyond-2847.herokuapp.com/
+
